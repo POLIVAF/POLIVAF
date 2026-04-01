@@ -75,13 +75,17 @@ Actualmente sigo aprendiendo y mejorando mis habilidades en desarrollo web y sof
 
 ## 📫 Contacto
 
-<a href="mailto:tuemail@email.com">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="30"/>
-</a>
+<p align="center">
+  <a href="mailto:tuemail@email.com">
+    <img src="https://img.shields.io/badge/Gmail-Enviar%20correo-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
-<a href="https://linkedin.com/in/pablo-olivares-figueroa-8a542574">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30"/>
-</a>
+<p align="center">
+  <a href="https://linkedin.com/in/pablo-olivares-figueroa-8a542574">
+    <img src="https://img.shields.io/badge/LinkedIn-Pablo%20Olivares-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
