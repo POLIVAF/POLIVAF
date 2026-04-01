@@ -44,6 +44,7 @@ Actualmente sigo aprendiendo y mejorando mis habilidades en desarrollo web y sof
 ### 🛠 Backend
 - Node.js
 - Express
+-  JWT
 
 ### 🧠 Lenguajes
 - JavaScript
@@ -74,8 +75,13 @@ Actualmente sigo aprendiendo y mejorando mis habilidades en desarrollo web y sof
 
 ## 📫 Contacto
 
-📧 Mail: olivaresf.pablo@email.com  
-💼 linkedin.com/in/pablo-olivares-figueroa-8a542574
+<a href="mailto:tuemail@email.com">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="30"/>
+</a>
+
+<a href="https://linkedin.com/in/pablo-olivares-figueroa-8a542574">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30"/>
+</a>
 
 ---
 
