@@ -1,12 +1,9 @@
-## Hola👋
-
-💻 README para tu perfil
-# 👋 Hola, soy Pablo Olivares
+## 👋 Hola, soy Pablo Olivares
 
 💻 Desarrollador **Full Stack JavaScript**  
 🚀 Apasionado por la tecnología, el desarrollo web y el aprendizaje continuo  
 
-Languages and Tools I Use
+Lenguajes y herramientas Usadas:
 <h1>Hi 👋, I'm </h1>
 <p>A passionate frontend developer from </p>
 <h2>🚀 Languages and Tools I Use</h2>
