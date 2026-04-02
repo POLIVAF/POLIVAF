@@ -41,7 +41,7 @@ Actualmente sigo aprendiendo y mejorando mis habilidades en desarrollo web y sof
 ### 🛠 Backend
 - Node.js
 - Express
--  JWT
+- JWT
 
 ### 🧠 Lenguajes
 - JavaScript
@@ -64,9 +64,9 @@ Actualmente sigo aprendiendo y mejorando mis habilidades en desarrollo web y sof
 
 ## 📊 Estadísticas de GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=POLIVAF&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=POLIVAF&layout=compact&theme=tokyonight)
 
 ---
 
