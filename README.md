@@ -31,41 +31,30 @@ Actualmente sigo aprendiendo y mejorando mis habilidades en desarrollo web y sof
 
 ## ⚙️ Tecnologías y herramientas
 
-### 🚀 Frontend
-- HTML5
-- CSS3
-- TypeScript
-- Angular
+## ⚙️ Tecnologías y herramientas
 
-### 🛠 Backend
-- Node.js
-- Express
-- JWT
-
-### 🧠 Lenguajes
-- JavaScript
-- Python
-
-### 🔧 Herramientas
-- Git & GitHub
-- VS Code
-- Postman
-
+| 🚀 Frontend | 🛠 Backend | 🧠 Lenguajes | 🔧 Herramientas |
+|-------------|------------|--------------|-------------------|
+| HTML5       | Node.js    | JavaScript   |  Git & GitHub     |
+| CSS3        | Express    | Python       |  VS Code          |
+| TypeScript  | JWT        |              |  Postman          |
+| Angular     |            |              |                   |
 ---
 
-## 📌 Actualmente
+##  Actualmente
 
-- 📚 Aprendiendo más sobre desarrollo Full Stack
-- 🧪 Creando proyectos personales
+- 📚 Aprendiendo constantemente tecnologías
+- 🧪 Creando proyectos personales como Full Stack
 - 🚀 Mejorando buenas prácticas y arquitectura
 
 ---
 
 ## 📊 Estadísticas de GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=POLIVAF&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=POLIVAF&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=POLIVAF&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=POLIVAF&layout=compact&theme=tokyonight" height="150"/>
+</p>
 
 ---
 
