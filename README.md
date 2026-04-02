@@ -74,7 +74,7 @@ Actualmente sigo aprendiendo y mejorando mis habilidades en desarrollo web y sof
 
 
 <p>
-  <a href="mailto:olivaresf.pablo@gmail.com">
+  <a href="olivaresf.pablo@gmail.com">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="30"/>
   </a>
   &nbsp;
