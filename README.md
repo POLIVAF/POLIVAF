@@ -1,6 +1,6 @@
 ## 👋 Hola, soy Pablo Olivares
 
-Desarrollador **Full Stack JavaScript**  
+Desarrollador **Full-Stack JavaScript**  
 Apasionado por la tecnología, el desarrollo web y el aprendizaje continuo  
 
 Lenguajes y herramientas Usadas:
