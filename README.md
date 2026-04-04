@@ -26,32 +26,29 @@ Lenguajes y herramientas Usadas:
 
 
 
-## 🧠 Sobre mí
+## Sobre mí
 
-Soy desarrollador Full Stack enfocado en la creación de aplicaciones web modernas.  
-Me gusta trabajar tanto en el frontend como en el backend, construyendo soluciones eficientes y escalables.
-
-Actualmente sigo aprendiendo y mejorando mis habilidades en desarrollo web y software.
+- Como desarrollador Full Stack me enfoco en la creación de aplicaciones web modernas.  
+- Me gusta trabajar tanto en el frontend como en el backend, construyendo soluciones eficientes y escalables.
+- Actualmente sigo aprendiendo y mejorando mis habilidades en desarrollo web y software.
 
 ---
 
-## ⚙️ Tecnologías y herramientas
-
-## ⚙️ Tecnologías y herramientas
+## Tecnologías y herramientas
 
 | 🚀 Frontend | 🛠 Backend | 🧠 Lenguajes | 🔧 Herramientas |
 |-------------|------------|--------------|-------------------|
 | HTML5       | Node.js    | JavaScript   |  Git & GitHub     |
 | CSS3        | Express    | Python       |  VS Code          |
-| TypeScript  | JWT        |              |  Postman          |
-| Angular     |            |              |                   |
+| Angular     | JWT        | TypeScript   |  Postman          |
+|             |            |              |                   |
 ---
 
 ##  Actualmente
 
-- 📚 Aprendiendo constantemente tecnologías
-- 🧪 Creando proyectos personales como Full Stack
-- 🚀 Mejorando buenas prácticas y arquitectura
+-  Aprendiendo constantemente tecnologías
+-  Creando proyectos personales como Full Stack
+-  Mejorando buenas prácticas y arquitectura
 
 ---
 
@@ -73,6 +70,10 @@ Actualmente sigo aprendiendo y mejorando mis habilidades en desarrollo web y sof
   &nbsp;
   <a href="https://linkedin.com/in/pablo-olivares-figueroa-8a542574">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30"/>
+  </a>
+  &nbsp;
+  <a href="https://portafolio-proyectos-virid.vercel.app" target="_blank">
+    <img src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png" width="30"/>
   </a>
 </p>
 
