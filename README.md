@@ -63,7 +63,7 @@ Lenguajes y herramientas Usadas:
 
 
 <p>
-  <a href="mailto:olivaresf.pablo@gmail.com">
+   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=olivaresf.pablo@gmail.com" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="30"/>
   </a>
   &nbsp;
