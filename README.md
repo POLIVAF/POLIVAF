@@ -41,7 +41,6 @@ Lenguajes y herramientas Usadas:
 | HTML5       | Node.js    | JavaScript   |  Git & GitHub     |
 | CSS3        | Express    | Python       |  VS Code          |
 | Angular     | JWT        | TypeScript   |  Postman          |
-|             |            |              |                   |
 ---
 
 ##  Actualmente
