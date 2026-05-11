@@ -3,16 +3,6 @@
 Desarrollador **Full-Stack JavaScript**  
 Apasionado por la tecnología, el desarrollo web y el aprendizaje continuo  
 
-Lenguajes y herramientas Usadas:
-
-| 🚀 Frontend | 🛠 Backend | 🧠 Lenguajes | 🗄 Base de Datos | 🤖 IA / Data Science | 🧪 Testing | 🔧 Herramientas |
-|-------------|------------|--------------|------------------|----------------------|-------------|-----------------|
-| HTML5       | Node.js    | JavaScript   | PostgreSQL       | Scikit-learn         | Cypress     | Git & GitHub    |
-| CSS3        | Express.js | TypeScript   |                  | Pandas               | Selenium    | VS Code         |
-| Bootstrap   | JWT        | Python       |                  | Seaborn              |             | Postman         |
-| Angular     |            |              |                  | TensorFlow           |             | Photoshop       |
-
-
 ## Sobre mí
 
 - Como desarrollador Full Stack me enfoco en la creación de aplicaciones web modernas.  
@@ -23,11 +13,12 @@ Lenguajes y herramientas Usadas:
 
 ## Tecnologías y herramientas
 
-| 🚀 Frontend | 🛠 Backend | 🧠 Lenguajes | 🔧 Herramientas |
-|-------------|------------|--------------|-------------------|
-| HTML5       | Node.js    | JavaScript   |  Git & GitHub     |
-| CSS3        | Express    | Python       |  VS Code          |
-| Angular     | JWT        | TypeScript   |  Postman          |
+| 🚀 Frontend | 🛠 Backend | 🧠 Lenguajes | 🗄 Base de Datos | 🤖 IA / Data Science | 🧪 Testing | 🔧 Herramientas |
+|-------------|------------|--------------|------------------|----------------------|-------------|-----------------|
+| HTML5       | Node.js    | JavaScript   | PostgreSQL       | Scikit-learn         | Cypress     | Git & GitHub    |
+| CSS3        | Express.js | TypeScript   |                  | Pandas               | Selenium    | VS Code         |
+| Bootstrap   | JWT        | Python       |                  | Seaborn              |             | Postman         |
+| Angular     |            |              |                  | TensorFlow           |             | Photoshop       |
 ---
 
 ##  Actualmente
